@@ -1,0 +1,41 @@
+ANALYSIS OF CRIMES IN THE CITY OF NEW YORK
+
+ANALYSIS OF CRIMES IN THE CITY OF NEW YORK is a Capstone Project developed during Data Science Career Track at Springboard (2018)
+
+It contains three files:
+
+1. 'Analysis of Crimes in the City of New York - Capstone Project 1 - Report - Springboard 2018.pdf' - a report describing the project and its outcomes in detail
+
+2.'Analysis of Crimes in The City of New York - Capstone Project 1 - Presentation - Springboard 2018.pdf' - a slide presentation of the report 
+
+3. ANALYSIS OF CRIMES IN THE CITY OF NEW YORK.ipynb - a code used to develop the outcomes of the report
+
+Cleaned Datasets to be run with the code are available at
+https://drive.google.com/open?id=1ZIX2W6mE2E5I_EQ_woeBclKOUw_qdyp-
+
+
+The main sections of the report are:
+
+
+INTRODUCTION - introduction of the project
+DATABASES - description of the databases used during the project
+CLIENT - potential client of this project
+DATA WRANGLING - wrangling procedures performed on the original dataset
+DATA EXPLORATION - exloratory analysis of the datasets
+CRIME RATES	- analysis of NYC crime rates
+CRIME DENSITY - analysis of crime density 
+CRIME RATES AND POPULATION - relationship between crime rates and population
+CRIME HOMOGENEITY - comparison of different fractions (area, population, crime rate) among boroughs
+CRIME STATUS ANALYSIS - analysis of crime rates of different level
+CRIME RATES AND HOUSING MARKET - analysis of relationship between crime rates and housing market in NYC
+DATA MODELING (SUPERVISED LEARNING)	- Linear regression model for relationship between severe crime rates and different demographic indicators
+DATA MODELING (UNSUPERVISED LEARNING) - study of clustering in the dataset involving: 
+	SIMILARITIES BETWEEN BOROUGHS - cosine similarities between boroughs
+	PRECINCT SEGMENTATION - methods to investigate clustering among precincts using:
+		T-DISTRIBUTED STOCHASTIC NEIGHBOR EMBEDDING	
+		PRINCIPAL COMPONENT ANALYSIS	
+		CLUSTERING METHODS	
+	SIMILARITIES BETWEEN PRECINCTS (TOOL) a tool to find out the top most similar precinct and the most contributing crimes 
+ASSUMPTIONS AND LIMITATIONS	- limitations of the analysis
+RECOMMENDATIONS AND FUTURE WORK	- recommendation for the next steps
+CONCLUSIONS - summary of the analysis
