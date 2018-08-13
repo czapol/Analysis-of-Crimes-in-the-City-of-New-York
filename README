@@ -2,13 +2,15 @@ ANALYSIS OF CRIMES IN THE CITY OF NEW YORK
 
 ANALYSIS OF CRIMES IN THE CITY OF NEW YORK is a Capstone Project developed during Data Science Career Track at Springboard (2018)
 
-It contains three files:
+It contains 4 files:
 
 1. 'Analysis of Crimes in the City of New York - Capstone Project 1 - Report - Springboard 2018.pdf' - a report describing the project and its outcomes in detail
 
 2.'Analysis of Crimes in The City of New York - Capstone Project 1 - Presentation - Springboard 2018.pdf' - a slide presentation of the report 
 
 3. ANALYSIS OF CRIMES IN THE CITY OF NEW YORK.ipynb - a code used to develop the outcomes of the report
+
+4. ANALYSIS OF CRIMES IN THE CITY OF NEW YORK  - DATA WRANGLING.ipynb - a code used to clean NYPD data
 
 Cleaned Datasets to be run with the code are available at
 https://drive.google.com/open?id=1ZIX2W6mE2E5I_EQ_woeBclKOUw_qdyp-
